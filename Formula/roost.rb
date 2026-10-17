@@ -4,7 +4,7 @@ class Roost < Formula
   desc "Terminal session manager for Claude Code"
   homepage "https://github.com/dmcphearson/agent-roost"
   url "https://github.com/dmcphearson/agent-roost/archive/refs/tags/v2026.10.21.tar.gz"
-  sha256 "4c7a9bd2ce7a3686752ea4d4d96402d559daafc9a4a2748ac9fa6e8eb6fee351"
+  sha256 "7acee9d031619d2c7b10949bea209f0aeb729b51eb6997423a6ebeb15f393b95"
   license "MIT"
 
   depends_on :macos
