@@ -2,7 +2,10 @@
 
 Homebrew formulae and casks.
 
+Homebrew 7 only loads third-party taps you have trusted, so trust this one first.
+
 ```sh
+brew trust dmcphearson/tap
 brew install dmcphearson/tap/roost
 brew install --cask dmcphearson/tap/gateway
 ```
