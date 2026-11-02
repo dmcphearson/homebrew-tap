@@ -1,6 +1,6 @@
 cask "gateway" do
-  version "1.0.4"
-  sha256 "ea69210f3a2fe72a6a831cab784f6a04557d1e22264401f7a3f5432cb8bcd6b0"
+  version "1.0.5"
+  sha256 "5b7d7869f773354559936d62da11f09523cddaa1160abc4cd2c56bd4cb573d7d"
 
   url "https://github.com/dmcphearson/gateway/releases/download/v#{version}/Gateway_v#{version}.zip"
   name "Gateway"
