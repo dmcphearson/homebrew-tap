@@ -3,8 +3,8 @@ class Roost < Formula
 
   desc "Terminal session manager for Claude Code"
   homepage "https://github.com/dmcphearson/agent-roost"
-  url "https://github.com/dmcphearson/agent-roost/archive/refs/tags/v2026.10.29.tar.gz"
-  sha256 "7bef67e91126eec8308fe1a7068813bbfe8785e615f7381f20b48349a58f7181"
+  url "https://github.com/dmcphearson/agent-roost/archive/refs/tags/v2026.11.02.tar.gz"
+  sha256 "df010a35ad30995be592265db5feba431db8ecfe2d473cea8ec329acd6e99a40"
   license "Apache-2.0"
 
   depends_on :macos
